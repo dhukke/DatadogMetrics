@@ -1,0 +1,14 @@
+@DatadogMetrics_HostAddress = http://localhost:5065
+
+GET {{DatadogMetrics_HostAddress}}/the-get/
+Accept: application/json
+
+###
+
+## @name post
+
+POST {{DatadogMetrics_HostAddress}}/the-post/
+Accept: application/json
+
+{
+}
