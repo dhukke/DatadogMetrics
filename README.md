@@ -75,6 +75,6 @@ app.Run();
 ```
 ### Check the result on datadog
 
-[DataDog Metric Exemplorer](https://app.datadoghq.com/metric/explorer)
+[DataDog Metric Explorer](https://app.datadoghq.com/metric/explorer)
 
 ![alt text](docs/metric-explorer.png)
